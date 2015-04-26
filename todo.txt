@@ -1,0 +1,17 @@
+TO DO
+
+  
+
+-add 'follow reader' (then add" recently uploaded/read from readers you follow")
+ 
+        
+- record views on view.php
+- find out how to find the most matches for "most popular/read"
+
+- add genres (on upload select from dropdown)
+ 
+
+ 
+-search bars
+
+main search bar.. suggestions (with links)

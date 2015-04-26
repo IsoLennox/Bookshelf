@@ -1,0 +1,288 @@
+[11-Mar-2015 00:04:14 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ilennox'@'localhost' to database 'ilennox_bookshelf' in /home4/ilennox/public_html/bookshelf/functions/db_connection.php on line 8
+[11-Mar-2015 00:04:14 America/Chicago] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home4/ilennox/public_html/bookshelf/functions/db_connection.php on line 12
+[11-Mar-2015 12:47:43 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_file.php on line 8
+[11-Mar-2015 12:49:31 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_file.php on line 8
+[11-Mar-2015 15:14:55 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_file.php on line 8
+[13-Mar-2015 12:21:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/search.php on line 84
+[13-Mar-2015 12:22:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/search.php on line 84
+[13-Mar-2015 12:26:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/search.php on line 137
+[13-Mar-2015 12:26:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/search.php on line 137
+[13-Mar-2015 12:27:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/search.php on line 135
+[13-Mar-2015 12:27:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/search.php on line 132
+[13-Mar-2015 12:42:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/search.php on line 137
+[13-Mar-2015 12:42:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/search.php on line 137
+[13-Mar-2015 12:43:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/search.php on line 137
+[13-Mar-2015 12:54:25 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/ilennox/public_html/bookshelf/search.php on line 56
+[13-Mar-2015 15:51:17 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:17 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:17 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:17 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:17 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 30 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:19 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:19 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:19 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:19 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:19 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 30 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:56 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:56 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:56 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:56 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 17 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:56 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 32 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:57 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:57 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:57 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:57 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 17 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:51:57 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 32 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:04 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:04 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:04 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:04 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: span line 14 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 17 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:04 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and span in /home4/ilennox/public_html/bookshelf/links.php, line: 18 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:04 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 32 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:04 America/Chicago] PHP Fatal error:  Call to undefined method DOMDocument::getElementsById() in /home4/ilennox/public_html/bookshelf/livesearch.php on line 6
+[13-Mar-2015 15:53:05 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:05 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:05 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:05 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: span line 14 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 17 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:05 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and span in /home4/ilennox/public_html/bookshelf/links.php, line: 18 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:05 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 32 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:05 America/Chicago] PHP Fatal error:  Call to undefined method DOMDocument::getElementsById() in /home4/ilennox/public_html/bookshelf/livesearch.php on line 6
+[13-Mar-2015 15:53:07 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:07 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:07 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:07 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: span line 14 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 17 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:07 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and span in /home4/ilennox/public_html/bookshelf/links.php, line: 18 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:07 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 32 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:53:07 America/Chicago] PHP Fatal error:  Call to undefined method DOMDocument::getElementsById() in /home4/ilennox/public_html/bookshelf/livesearch.php on line 6
+[13-Mar-2015 15:55:27 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:27 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:27 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:27 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:27 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 40 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:27 America/Chicago] PHP Fatal error:  Call to undefined method DOMDocument::getElementsById() in /home4/ilennox/public_html/bookshelf/livesearch.php on line 6
+[13-Mar-2015 15:55:29 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:29 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:29 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:29 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:29 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 40 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 15:55:29 America/Chicago] PHP Fatal error:  Call to undefined method DOMDocument::getElementsById() in /home4/ilennox/public_html/bookshelf/livesearch.php on line 6
+[13-Mar-2015 16:05:42 America/Chicago] PHP Warning:  DOMDocument::load(): Unescaped '&lt;' not allowed in attributes values in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 16:05:42 America/Chicago] PHP Warning:  DOMDocument::load(): attributes construct error in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 16:05:42 America/Chicago] PHP Warning:  DOMDocument::load(): Couldn't find end of Start Tag a line 15 in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 16:05:42 America/Chicago] PHP Warning:  DOMDocument::load(): Opening and ending tag mismatch: pages line 12 and a in /home4/ilennox/public_html/bookshelf/links.php, line: 15 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 16:05:42 America/Chicago] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in /home4/ilennox/public_html/bookshelf/links.php, line: 40 in /home4/ilennox/public_html/bookshelf/livesearch.php on line 4
+[13-Mar-2015 16:05:42 America/Chicago] PHP Fatal error:  Call to undefined method DOMDocument::getElementsById() in /home4/ilennox/public_html/bookshelf/livesearch.php on line 6
+[13-Mar-2015 16:46:55 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 29
+[13-Mar-2015 16:46:57 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 29
+[13-Mar-2015 16:48:16 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 33
+[13-Mar-2015 16:48:16 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 33
+[13-Mar-2015 16:49:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 31
+[13-Mar-2015 16:49:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 31
+[13-Mar-2015 16:54:01 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 35
+[13-Mar-2015 16:54:01 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 35
+[13-Mar-2015 17:06:06 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 47
+[13-Mar-2015 17:06:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ilennox/public_html/bookshelf/get_hint2.php on line 47
+[14-Mar-2015 15:59:47 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 12
+[14-Mar-2015 15:59:48 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 12
+[14-Mar-2015 15:59:48 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 12
+[14-Mar-2015 16:00:08 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 12
+[14-Mar-2015 16:00:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 12
+[14-Mar-2015 16:00:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 12
+[14-Mar-2015 16:00:37 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 12
+[14-Mar-2015 16:00:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 15
+[14-Mar-2015 16:20:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:20:48 America/Chicago] PHP Fatal error:  Call to undefined function array_push_assoc() in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:21:21 America/Chicago] PHP Fatal error:  Call to undefined function array_push_assoc() in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:21:30 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:21:30 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:23:48 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:28) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 28
+[14-Mar-2015 16:24:06 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:28) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 28
+[14-Mar-2015 16:25:13 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:28) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 28
+[14-Mar-2015 16:25:14 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:28) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 28
+[14-Mar-2015 16:25:28 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:25:28 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:25:37 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 10
+[14-Mar-2015 16:25:54 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 10
+[14-Mar-2015 16:26:06 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, integer given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:26:06 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 29
+[14-Mar-2015 16:27:50 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:31) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 31
+[14-Mar-2015 16:27:50 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:31) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 31
+[14-Mar-2015 16:28:12 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:31) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 31
+[14-Mar-2015 16:28:13 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:31) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 31
+[14-Mar-2015 16:28:29 America/Chicago] PHP Fatal error:  Cannot redeclare array_push_assoc() (previously declared in /home4/ilennox/public_html/bookshelf/count_all_books_read.php:31) in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 31
+[14-Mar-2015 16:30:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 34
+[14-Mar-2015 16:36:01 America/Chicago] PHP Warning:  usort() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/count_all_books_read.php on line 40
+[14-Mar-2015 18:01:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 22
+[14-Mar-2015 18:06:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 22
+[14-Mar-2015 18:11:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 22
+[14-Mar-2015 18:16:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 43
+[14-Mar-2015 18:17:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 43
+[14-Mar-2015 18:17:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 43
+[14-Mar-2015 18:17:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 43
+[14-Mar-2015 18:20:13 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/profile.php on line 38
+[14-Mar-2015 18:20:13 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/profile.php on line 38
+[14-Mar-2015 18:20:13 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/profile.php on line 38
+[14-Mar-2015 18:20:13 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 39
+[14-Mar-2015 18:20:25 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/profile.php on line 38
+[14-Mar-2015 18:20:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/ilennox/public_html/bookshelf/profile.php on line 39
+[14-Mar-2015 18:22:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 46
+[14-Mar-2015 18:22:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 46
+[14-Mar-2015 18:23:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 46
+[14-Mar-2015 18:23:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 46
+[14-Mar-2015 18:42:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/index.php on line 141
+[15-Mar-2015 02:23:40 America/Chicago] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL) in /home4/ilennox/public_html/bookshelf/search.php on line 243
+[15-Mar-2015 02:49:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 23
+[15-Mar-2015 02:49:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 64
+[15-Mar-2015 02:50:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 23
+[15-Mar-2015 02:50:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 64
+[15-Mar-2015 02:50:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 23
+[15-Mar-2015 02:50:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/profile.php on line 64
+[15-Mar-2015 15:59:32 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home4/ilennox/public_html/bookshelf/view.php on line 32
+[15-Mar-2015 16:03:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ilennox/public_html/bookshelf/view.php:1) in /home4/ilennox/public_html/bookshelf/functions/session.php on line 3
+[16-Mar-2015 15:47:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/ilennox/public_html/bookshelf/delete.php on line 17
+[16-Mar-2015 15:52:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/ilennox/public_html/bookshelf/delete.php on line 17
+[16-Mar-2015 15:53:03 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/ilennox/public_html/bookshelf/delete.php on line 20
+[16-Mar-2015 15:53:03 America/Chicago] PHP Warning:  unlink(): No such file or directory in /home4/ilennox/public_html/bookshelf/delete.php on line 22
+[16-Mar-2015 16:22:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/ilennox/public_html/bookshelf/delete.php on line 20
+[16-Mar-2015 16:22:19 America/Chicago] PHP Warning:  unlink(): No such file or directory in /home4/ilennox/public_html/bookshelf/delete.php on line 22
+[16-Mar-2015 16:28:03 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_file.php on line 12
+[16-Mar-2015 17:09:10 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/ilennox/public_html/bookshelf/edit.php on line 138
+[17-Mar-2015 00:53:46 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ilennox/public_html/bookshelf/add_book.php on line 125
+[17-Mar-2015 01:13:14 America/Chicago] PHP Warning:  unlink(uploads/GraphicDesignTheNewBasics.pdf): No such file or directory in /home4/ilennox/public_html/bookshelf/delete.php on line 22
+[17-Mar-2015 01:17:28 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[17-Mar-2015 01:17:28 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[17-Mar-2015 01:17:28 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[17-Mar-2015 15:37:05 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home4/ilennox/public_html/bookshelf/search.php on line 279
+[17-Mar-2015 16:35:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/ilennox/public_html/bookshelf/search.php on line 378
+[17-Mar-2015 16:36:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/search.php on line 518
+[17-Mar-2015 16:36:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/search.php on line 495
+[17-Mar-2015 16:41:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ilennox/public_html/bookshelf/search.php on line 354
+[17-Mar-2015 18:28:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ilennox/public_html/bookshelf/search.php on line 572
+[18-Mar-2015 15:40:46 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home4/ilennox/public_html/bookshelf/settings.php on line 82
+[18-Mar-2015 15:41:05 America/Chicago] PHP Fatal error:  Call to undefined function test_input() in /home4/ilennox/public_html/bookshelf/settings.php on line 17
+[18-Mar-2015 15:43:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/edit.php on line 12
+[18-Mar-2015 15:44:30 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/edit.php on line 12
+[18-Mar-2015 15:44:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/edit.php on line 12
+[18-Mar-2015 15:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/settings.php on line 263
+[18-Mar-2015 15:45:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/settings.php on line 263
+[18-Mar-2015 15:57:43 America/Chicago] PHP Fatal error:  Call to undefined function test_input() in /home4/ilennox/public_html/bookshelf/settings.php on line 40
+[18-Mar-2015 16:27:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ilennox/public_html/bookshelf/settings.php on line 136
+[18-Mar-2015 16:27:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ilennox/public_html/bookshelf/settings.php on line 136
+[18-Mar-2015 16:27:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ilennox/public_html/bookshelf/settings.php on line 136
+[18-Mar-2015 17:17:20 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:17:20 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:17:20 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:18:11 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:18:11 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:18:11 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:21:08 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:21:08 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:21:08 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:25:37 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:25:37 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:25:37 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:49:26 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:49:26 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:49:26 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:49:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/inc/upload_file.php on line 240
+[18-Mar-2015 17:50:38 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/inc/upload_file.php on line 240
+[18-Mar-2015 17:51:55 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:51:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ilennox/public_html/bookshelf/inc/upload_file.php on line 211
+[18-Mar-2015 17:52:57 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 17:56:41 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 19:17:27 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 19:18:19 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 19:21:04 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 19:31:21 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 19:34:34 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 19:53:18 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/add_book.php on line 124
+[18-Mar-2015 21:03:28 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:28 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:29 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:29 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:37 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:37 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:38 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:38 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:52 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:03:52 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:04:00 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:04:00 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:04:01 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:04:01 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 15
+[18-Mar-2015 21:11:14 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 18
+[18-Mar-2015 21:11:14 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 18
+[18-Mar-2015 21:11:15 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 18
+[18-Mar-2015 21:11:15 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 18
+[18-Mar-2015 21:11:16 America/Chicago] PHP Warning:  include_once(add_view.php?book_id=25): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/view.php on line 18
+[18-Mar-2015 21:11:16 America/Chicago] PHP Warning:  include_once(): Failed opening 'add_view.php?book_id=25' for inclusion (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/view.php on line 18
+[19-Mar-2015 13:04:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/edit_profile.php on line 5
+[19-Mar-2015 13:04:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/edit_profile.php on line 4
+[19-Mar-2015 13:07:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/ilennox/public_html/bookshelf/edit_profile.php on line 12
+[19-Mar-2015 13:14:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 27
+[19-Mar-2015 13:14:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 36
+[19-Mar-2015 13:36:12 America/Chicago] PHP Parse error:  syntax error, unexpected '"<br/>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/ilennox/public_html/bookshelf/profile.php on line 234
+[19-Mar-2015 14:08:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home4/ilennox/public_html/bookshelf/view.php on line 112
+[19-Mar-2015 17:47:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ilennox/public_html/bookshelf/view.php on line 290
+[19-Mar-2015 17:49:34 America/Chicago] PHP Warning:  unlink(): No such file or directory in /home4/ilennox/public_html/bookshelf/delete.php on line 77
+[19-Mar-2015 17:49:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 128
+[19-Mar-2015 17:49:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 137
+[19-Mar-2015 17:50:57 America/Chicago] PHP Warning:  unlink(): No such file or directory in /home4/ilennox/public_html/bookshelf/delete.php on line 77
+[19-Mar-2015 17:50:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 128
+[19-Mar-2015 17:50:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 137
+[19-Mar-2015 18:19:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 128
+[19-Mar-2015 18:19:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 137
+[19-Mar-2015 18:20:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 128
+[19-Mar-2015 18:20:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 137
+[19-Mar-2015 18:21:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 128
+[19-Mar-2015 18:21:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/view.php on line 137
+[19-Mar-2015 18:23:00 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 25
+[19-Mar-2015 18:34:44 America/Chicago] PHP Warning:  unlink(profile_img/3/red.png): No such file or directory in /home4/ilennox/public_html/bookshelf/upload_profile_img.php on line 42
+[19-Mar-2015 18:48:16 America/Chicago] PHP Warning:  require_once(../image_manipulator.php): failed to open stream: No such file or directory in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 2
+[19-Mar-2015 18:48:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../image_manipulator.php' (include_path='.:/opt/php55/lib/php') in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 2
+[19-Mar-2015 18:48:37 America/Chicago] PHP Warning:  move_uploaded_file() expects parameter 2 to be string, object given in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 77
+[19-Mar-2015 18:48:53 America/Chicago] PHP Warning:  move_uploaded_file() expects parameter 2 to be string, object given in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 77
+[19-Mar-2015 18:49:37 America/Chicago] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home4/ilennox/public_html/bookshelf/image_manipulator.php on line 75
+[19-Mar-2015 18:49:37 America/Chicago] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home4/ilennox/public_html/bookshelf/image_manipulator.php:76
+Stack trace:
+#0 /home4/ilennox/public_html/bookshelf/image_manipulator.php(28): ImageManipulator->setImageString('profile_img/3/2...')
+#1 /home4/ilennox/public_html/bookshelf/inc/upload_img.php(68): ImageManipulator->__construct('profile_img/3/2...')
+#2 /home4/ilennox/public_html/bookshelf/upload_profile_img.php(30): require_once('/home4/ilennox/...')
+#3 {main}
+  thrown in /home4/ilennox/public_html/bookshelf/image_manipulator.php on line 76
+[19-Mar-2015 20:08:09 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 25
+[19-Mar-2015 20:08:12 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 25
+[19-Mar-2015 20:08:15 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 25
+[19-Mar-2015 20:08:21 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home4/ilennox/public_html/bookshelf/inc/upload_img.php on line 25
+[19-Mar-2015 21:50:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 12
+[19-Mar-2015 21:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 12
+[19-Mar-2015 21:58:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:00:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:00:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:00:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:03:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:03:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:16:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:17:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:17:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:17:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:19:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:19:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 13
+[19-Mar-2015 22:22:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 14
+[19-Mar-2015 22:22:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 14
+[19-Mar-2015 22:24:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 14
+[19-Mar-2015 22:24:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 14
+[19-Mar-2015 22:24:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ilennox/public_html/bookshelf/rate.php on line 14
+[19-Mar-2015 23:40:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ilennox/public_html/bookshelf/view.php on line 162
+[19-Mar-2015 23:40:55 America/Chicago] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home4/ilennox/public_html/bookshelf/view.php on line 164
+[19-Mar-2015 23:49:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/ilennox/public_html/bookshelf/view.php on line 170
+[19-Mar-2015 23:49:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/ilennox/public_html/bookshelf/view.php on line 170
+[19-Mar-2015 23:51:04 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 267911168 bytes) in /home4/ilennox/public_html/bookshelf/view.php on line 173
+[20-Mar-2015 00:03:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ilennox/public_html/bookshelf/view.php on line 171
+[20-Mar-2015 00:03:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ilennox/public_html/bookshelf/view.php on line 171
+[20-Mar-2015 00:23:39 America/Chicago] PHP Warning:  Division by zero in /home4/ilennox/public_html/bookshelf/view.php on line 169
+[20-Mar-2015 00:27:40 America/Chicago] PHP Warning:  Division by zero in /home4/ilennox/public_html/bookshelf/view.php on line 170
+[20-Mar-2015 00:28:23 America/Chicago] PHP Warning:  Division by zero in /home4/ilennox/public_html/bookshelf/view.php on line 170
+[20-Mar-2015 00:28:53 America/Chicago] PHP Warning:  Division by zero in /home4/ilennox/public_html/bookshelf/view.php on line 170

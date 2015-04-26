@@ -1,0 +1,445 @@
+body{
+/*    background: rosybrown;*/
+/*    background: #270601;*/
+    background: #410707;
+    margin: 0;
+    font-size: 20px;
+    font-family: Lato, sans-serif;
+}
+#full {display: block;}
+#mobile {display: none; }
+header {
+    font-size: 30px;
+    height: 20px;
+    padding: 30px;
+    background: #222;
+    color: antiquewhite;
+    margin-bottom: 50px;
+    font-family: Merriweather;
+}
+
+header a { color: antiquewhite;}
+header a:hover { color: grey;}
+
+.min-five{position: relative; top: -5px;}   
+.left_padding {padding: 20px; float: left;}
+
+
+header form {width: 50%;}
+#get_hint { 
+    color: white;
+    font-size: 20px;
+/*    background: white;*/
+    background: #222;
+    padding: 10px;
+/*    border: 1px solid grey;*/
+    border-radius: 5px;
+/*    box-shadow: 0 1px 5px rgba(0,0,0,0.15);*/
+    z-index: 999;
+}
+
+#get_hint a{color: white; padding: 10px; }
+#get_hint a:hover{color: darkkhaki;}
+
+ .search{position: relative; top: -10px;}
+.search input[type=text]{
+    width: 80%; 
+    border-radius: 5px;
+    padding: 10px;
+}
+.h4_search input[type=text]{width: 90%;}
+
+.search input[type="submit"]{
+    font-family: FontAwesome;
+    content: "&#xf002;";
+/*    color: #666;*/
+    color: antiquewhite;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+}
+.search input[type="submit"]:hover{color: white;}
+
+input[type="submit"]:hover{
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: darkolivegreen;
+    color: antiquewhite;
+}
+
+input[type="submit"]{ 
+    cursor: pointer;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: olivedrab;
+    color: antiquewhite;
+}
+
+
+input[type="file"]:hover{
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+/*
+    background-color: darkolivegreen;
+    color: antiquewhite;
+*/
+    color: black;
+}
+
+input[type="file"]{ 
+    cursor: pointer;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+/*    background-color: olivedrab;*/
+/*    color: antiquewhite;*/
+    color: black;
+}
+
+#new_pass input[type="password"]{
+    width: 400px;
+}
+
+a {text-decoration: none; 
+/*    color: #6B2B37;*/
+    color: #8D3014;
+}
+a:hover {color: black;}
+
+.links{cursor: pointer; clear: both;}
+
+h4 {
+    font-weight: 100;
+    color: darkgoldenrod;
+    background: rgba(65,7,7,.9); 
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px dotted rgba(255,55,140,.3);
+    clear: both;
+}
+h4 a{color: antiquewhite;}
+
+
+#page, #tall_page {
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px;
+/*    background: ivory;*/
+    background: rgba(255,255,255,.95);
+    border-radius: 5px;
+    min-height: 600px;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+font-size: 0;
+content: " ";
+clear: both;
+height: 0;
+}
+
+.clearfix {display: inline-block;}
+
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+
+#inline{display: inline;}
+
+#no-isbn, #new_comment {display: none;} 
+#new_title:hover {cursor: pointer;}
+#new_username, #new_email, #new_pass {display: none; background: white; padding: 20px;}
+ 
+
+
+.fa-question-circle:hover {cursor: pointer;}
+
+.rate a {color:darkgoldenrod;}
+.rate:hover {color: darkgoldenrod;}
+.rate a:hover ~ a {
+  color: black;
+}
+
+ 
+
+
+.fa-star-o:hover{ 
+    cursor: pointer;
+    font-family: FontAwesome; 
+    color: darkgoldenrod;
+}
+.fa-star-o:hover:before{
+content: "\f005";}
+
+h2 .fa-star-o:hover{  
+    font-family: FontAwesome;  
+    color: black;
+    cursor:text;
+}
+
+h2 .fa-star-o:hover:before{
+content: "\f006";}
+
+
+#tall_page { min-height: 800px;}
+.clear{clear:both;}
+.left { float: left;}
+.center {margin: 0 auto;}
+.right { float: right;}
+.one-third {width: 600px;}
+
+#description {background: white; padding: 10px;}
+
+#profile {min-height: 160px; margin-bottom: 10px;}
+#profile img, .avatar {margin-right: 10px;}
+
+.avatar, img{max-width: 150px; max-height: 150px;}
+.comments {
+    clear: both;
+    margin-bottom: 10px;
+    border: 1px solid grey;
+    padding: 20px;
+    min-height: 200px;
+}
+
+.padding{padding: 200px;}
+.username {font-size: 18px;}
+
+/*.red {color:red;}*/
+.green {color:#66cc66;}
+
+.message{ background: #222; border-radius: 2px; color: antiquewhite; padding: 10px;}
+
+.title {color: black; font-weight: 600;}
+.title a{color: black;}
+
+/*.details{ width: 200px; float: left;}*/
+.details{ width: 200px; }
+
+.hover-row  { padding: 20px; }
+.hover-row:hover {background: rgba(255,55,140,.1); }
+.book-list{width: 200px; float: left; margin: 5px; margin-bottom: 20px; height: 250px; border: 1px dotted rgba(255,55,140,.3); background: wheat;}
+
+.small {font-size: 14px;
+position: relative;
+top: -2px;}
+
+ 
+
+#upload_form p {width: 200px;}
+#upload_form input {float: left;}
+
+
+
+
+
+
+
+
+/*********************
+        BOOK
+**********************/
+.book {
+  position: relative;
+  width: 200px;
+  height: 300px;  
+  margin: 10px;
+    float: left;
+}
+
+.book-cover {
+    overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  box-shadow: 0px 2px 4px #999;
+  border-bottom-right-radius: 2px; 
+  background-color: #E5CCB1;
+  font-family: Helvetica, Arial, sans-serif;
+  z-index: 1;
+}
+
+#viewColor {width: 50px; height: 50px;}
+.red .book-cover, .red {background-color: indianred;}
+.red .book-cover {color: black;}
+.beige .book-cover, .beige {background-color: #E5CCB1;}
+.purple .book-cover, .purple {background-color: rosybrown;}
+.seagreen .book-cover, .seagreen {background-color: darkseagreen;} 
+.gold .book-cover, .gold {background-color: goldenrod;} 
+
+.book-cover:hover { background-color: rosybrown; }
+.purple .book-cover:hover { background-color: #8E6D47; }
+.gold .book-cover:hover { background-color: darkgoldenrod; }
+
+.book-cover:before {
+  border-left: 10px solid #000000;
+  content: "";
+  height: 300px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+}
+
+.book-cover h1,
+.book-cover h2 {
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+  line-height: 30px; 
+}
+
+.book-cover h1.title {
+  font-size: .9em;
+/*  text-shadow: 2px 1px 1px #EEEEEE;*/
+/*  text-shadow: 2px 1px 1px #000;*/
+  position: absolute;
+  top: 20px;
+  left: 25px;
+  color: #333;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.book-cover:hover h1.title {
+/*    color: antiquewhite;*/
+    color: black;
+/*    font-weight: 900;*/
+}
+
+.book-cover h2.subtitle {
+  font-size: .7em;
+/*  text-shadow: 2px 1px 1px #EEEEEE;*/
+    color: ghostwhite;
+  position: absolute;
+  top: 225px;
+  left: 40px;
+}
+
+.book-cover h5.author {
+  bottom: 5px;
+  font-size: 0.6em;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 12px;
+}
+
+.book-cover h5.author span {
+/*  color: #eee;*/
+  color: black;
+/*  color: darkred;*/
+    font-weight: 900;
+}
+.book-cover:hover h5.author span {
+    color: black;
+}
+
+.book-top {
+  background-color: #EEEEEE;
+  border-left: 5px solid #E5CCB1;
+  border-top: 2px solid #E5CCB1;
+  box-shadow: 1px 0px 2px #999;
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  top: -10px;
+  width: 195px;
+  transform: skew(-45deg, 0deg);
+  -ms-transform: skew(-45deg, 0deg);
+  -webkit-transform: skew(-45deg, 0deg);
+}
+
+.book-right {
+  background-color: #EEEEEE;
+  border-bottom: 1px solid #DDDDDD;
+  border-right: 2px solid #E5CCB1;
+  box-shadow: 1px 0px 1px #999;
+  height: 296px;
+  position: absolute;
+  right: -10px;
+  top: -4px;
+  width: 11px;
+  transform: skew(0deg, -45deg);
+  -ms-transform: skew(0deg, -45deg);
+  -webkit-transform: skew(0deg, -45deg);
+}
+/*********************
+        /BOOK
+**********************/
+
+
+
+
+/******************************
+        /MEDIA QUERIES
+*******************************/
+
+
+@media(max-width: 1000px) {
+
+    header { 
+    height: 70px;
+    padding: 30px;  
+    margin-bottom: 50px; 
+}
+    
+    #search_all {position: relative; top: 20px;}
+    
+}
+
+
+
+/*MOBILE DEVICES ONLY*/
+@media only screen and (max-device-width: 800px) {
+    
+ 
+    
+    body{
+        
+        font-size: 30px;
+    }
+    
+    header a { color: antiquewhite;}
+    header a:hover { color: grey;}
+    
+
+    .book-cover h1.title {
+        max-height: 100px;
+    }
+    
+    h4 {font-size: 40px; }
+    
+    #full {display: none;}
+    #mobile {display: block; }
+    
+    header {
+    font-size: 40px;
+    height: 150px;
+    padding: 30px;
+/*        color:#222;*/
+/*    background: ivory;*/
+        color:ivory;
+        background: #222;
+    margin-bottom: 50px;
+    font-family: Merriweather;
+}
+    header form {width: 70%}
+    .search input[type=text]{
+     
+        font-size: 30px;
+}
+    .username {font-size: 50px; clear: both;}
+    
+
+	}
